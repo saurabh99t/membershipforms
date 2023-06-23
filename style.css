@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    margin: 40px;
+
+}
+.Name{
+    /* background-color: red ; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 40px;
+   
+}
+
+
+.heading1{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.country{
+    /* background-color: red ; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Namestart{
+    display: flex;
+   line-height: 0px;
+   font-weight: bold;
+   font-size: 1.1rem;
+}
+
+
+.Membership{
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+#first-name{
+   margin-right: 5%;
+}
+
+
+#football{
+    margin-bottom: 40px;
+}
+/* 
+#lineheight, input{
+
+} */
