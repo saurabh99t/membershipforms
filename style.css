@@ -1,0 +1,182 @@
+body{
+    height: 100vh;
+    width: 100%;
+    overflow-x: hidden;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: whitesmoke;
+ 
+
+
+    
+   
+
+}
+
+
+
+#terms{
+    color: blue;
+}
+
+
+.paragraph{
+    padding-top: 10px;
+    font-weight: 600;
+    margin-right: 40px;
+}
+.containerr {
+ 
+    margin: 0 auto;
+    width: 40vw;
+    background: linear-gradient(rgb(221, 217, 209), whitesmoke);
+
+    border-radius: 10px;
+    /* border: 1px solid black; */
+    align-items: center;
+
+    z-index: 1;
+    
+
+
+
+}
+
+.wrapping{
+  
+ margin-left: 10%;
+    /* background-color: blueviolet; */
+}
+
+.paragraph{
+    font-size: 1.4rem;
+}
+
+#name{
+width: 41.5%;
+}
+
+
+#name2{
+    width: 41.5%;
+}
+
+#email{
+    width: 85%
+}
+
+
+#phone{
+    width: 85%
+}
+
+
+#Address{
+    width: 85%
+}
+
+#Address2{
+     width: 85%
+}
+
+#city{
+    width: 41.5%;
+}
+
+#region{
+    width: 41.5%;
+}
+
+#postal{
+    width: 40%;
+}
+
+#cars{
+    width: 43%
+}
+
+#date{
+    width: 85%
+}
+
+
+#star{
+color: red;
+}
+
+
+
+
+
+#region{
+    margin-bottom: 10px;
+   
+    width: 42%;
+}
+
+.btn{
+    height: 40px;
+    /* background-color: red; */
+    width: 100%;
+    display: grid;
+    place-items: center;
+    margin-top: 40px;
+}
+
+.button {
+  /* gap: 10px; */
+    padding: 10px 25px;
+background-color: rgb(44, 44, 44);
+color: white;
+      margin: 0 auto;
+      border: none;
+      border-radius: 4px;
+
+}
+
+
+
+.button:hover{
+    background-color: rgb(125, 125, 125);
+}
+
+
+#postal{
+    width: 41.5%;
+}
+
+#terms{
+    text-decoration: none;
+}
+
+
+input , ::placeholder{
+    color: black;
+}
+
+
+input, textarea {
+    background-color:whitesmoke;
+  }
+
+
+  input{
+    border: black ;
+    opacity: 100;
+    height: 25px;
+  }
+
+
+
+
+  #cars , input{
+height: 25px;
+background-color:whitesmoke;
+  }
+
+
+
+  .options{
+    display: flex; 
+    align-items: center;
+  }
